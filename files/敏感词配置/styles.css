@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:389px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,32 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u1960_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1960 {
+  position:absolute;
+  left:150px;
+  top:82px;
+  width:239px;
+  height:20px;
+}
+#u1961 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  white-space:nowrap;
 }

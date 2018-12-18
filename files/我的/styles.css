@@ -5294,3 +5294,31 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u536_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:91px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u536 {
+  position:absolute;
+  left:2032px;
+  top:565px;
+  width:91px;
+  height:20px;
+}
+#u537 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:91px;
+  white-space:nowrap;
+}
